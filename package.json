@@ -1,6 +1,6 @@
 {
   "name": "project-html-template",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Html template for project page",
   "main": "index.js",
   "repository": {
